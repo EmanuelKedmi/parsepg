@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "exception": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "localhost",
+            "username": "postgres",
+            "password": "password",
+            "database": "postgres"
+        }
+    ],
+    "python.testing.pytestEnabled": true
+}
